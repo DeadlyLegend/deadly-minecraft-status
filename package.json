@@ -1,0 +1,28 @@
+{
+  "name": "deadly-minecraft-status",
+  "version": "1.0.0",
+  "description": "Simple Minecraft server status",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadlyLegend/deadly-minecraft-status.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Status",
+    "JS",
+    "Deadly"
+  ],
+  "author": "DeadlyLegend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeadlyLegend/deadly-minecraft-status/issues"
+  },
+  "homepage": "https://github.com/DeadlyLegend/deadly-minecraft-status#readme"
+}
